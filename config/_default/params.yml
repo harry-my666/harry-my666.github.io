@@ -30,9 +30,9 @@ author: harry-my666
 email: hharry_kk@126.com
 description: "少女祈祷中..."
 #subtitle: "少女祈祷中..."
-subtitle: "少女祈祷中..."
-  typing:  true   
-    enable:  true
+subtitle: 
+  typing: true   
+    enable: true
     strings:
        - 发发发
        - sdffgg
