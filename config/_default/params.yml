@@ -35,9 +35,9 @@ subtitle:
     enable: true
     strings:
        - 发发发
-       - sdffgg
-       - 1234455
-       - hahah
+       - 哈哈哈哈哈
+       - 哈基米曼波
+       - Let's gooooooooo
     typeSpeed: 100              # 打字速度（毫秒/字符） 
     backSpeed: 50               # 删除速度（毫秒/字符）
     backDelay: 2000             # 打完一句话后，等待时间
