@@ -28,16 +28,16 @@ timeFormat: "2006-01-02 15:04:05"
 
 author: harry-my666
 email: hharry_kk@126.com
-description: "少女祈祷中..."
+ description: "少女祈祷中..."
 #subtitle: "少女祈祷中..."
-subtitle: "少女祈祷中..."
-  typing: true
-    enable: true
-    strings:
-      # - Sentence 1
-      # - Sentence 2
-      # - Sentence 3
-      # - Sentence 4
+ subtitle: "少女祈祷中..."
+  typing:  true   
+   enable:  true
+   strings:
+       - 发发发
+       - sdffgg
+       - 1234455
+       - hahah
     typeSpeed: 100              # 打字速度（毫秒/字符） 
     backSpeed: 50               # 删除速度（毫秒/字符）
     backDelay: 2000             # 打完一句话后，等待时间
