@@ -31,7 +31,7 @@ email: hharry_kk@126.com
 description: "少女祈祷中..."
 #subtitle: "少女祈祷中..."
 subtitle: 
-  typing: true   
+  typing:    
     enable: true
     strings:
        - 发发发
